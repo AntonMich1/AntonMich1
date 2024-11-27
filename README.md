@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AntonMicheal
 - 👀 I’m interested in mathematics, sport, finance, biology and coding
-- 🌱 I’m currently focusing on data and machine learning approaches...
+- 🌱 Predictive modelling & machine learning approaches...
 - 💞️ I’m looking to collaborate on ML projects
 - 📫 Reach me antonilango@hotmail.com
 - 😄 Pronouns: Dr square root
