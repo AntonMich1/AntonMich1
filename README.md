@@ -16,3 +16,5 @@ This section is a portfolio of Machine Learning projects with Python and various
   
 https://github.com/AntonMich1/testrepo/tree/main
 In this project, we predict if the Falcon 9 first stage will land successfully. Project includes: SpaceX data collection, Data Wrangling, Webscraping, EDA with SQL Queries & Data visualization, SpaceX Launch Records Dashboard, Launch Sites Locations Analysis with Folium, Machine Learning classification with optimization of hyperparameters and selection of best model: KNN, Decision Tree, SVM, Logistic Regression.
+
+Mathematics of Machine Learning. Most of these projects were carried out within the framework of Imperial College Online certifications. They are presented with Jupyter Notebooks. I updated some projects by incorporating more and more interesting questions
