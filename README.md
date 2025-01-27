@@ -3,7 +3,7 @@
 - 🌱 Predictive modelling & machine learning approaches...
 - 💞️ I’m looking to collaborate on ML projects
 - 📫 Reach me antonilango@hotmail.com
-- 😄 Pronouns: Dr square root
+- 😄 Pronouns: JumpTheMouse
 - ⚡ Fun fact: Playing Volleyball, Biking, Solving puzzles
 
 <!---
