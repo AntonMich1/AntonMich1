@@ -19,6 +19,7 @@ In this project, we predict if the Falcon 9 first stage will land successfully. 
 
 Mathematics of Machine Learning. Most of these projects were carried out within the framework of Imperial College Online certifications. They are presented with Jupyter Notebooks. I updated some projects by incorporating more and more interesting questions
 https://github.com/AntonMich1/Mathematics_MachineLearning
+
 Ongoing Projects
 A: Reinforcement Learning- Temporal difference (TD) Regularized Actor-Critic model for Active Avoidance Learning:
 I am using real data from mice subjected to cue-signaled active avoidance learning. An actor-critic model, with separate learning rates for action selection (in the actor) and state evaluation (in the critic), was applied to individual mice during avoidance acquisition. Latent parameters, such as learning rate and the subjective reinforcement value of foot shock, were extracted and compared across. To enhance stability, I integrated Temporal Difference (TD) learning, which is particularly effective in handling delayed rewards and punishments—key factors in avoidance behaviors. The TD error aligns with biological mechanisms like dopamine signaling, making it a plausible model for understanding how animals learn to avoid threats. Additionally, the regularization term ensures stable and efficient learning, even in uncertain and complex environments.  I am currently investigating whether the TD model RL model accurately represents and successfully predicts avoidance behavior.
