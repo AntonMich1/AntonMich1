@@ -26,5 +26,7 @@ Reinforcement Learning – Temporal Difference (TD) Regularized Actor-Critic Mod
 
 I am using parameters from cue-signaled active avoidance (AA) training in mice and feeding real learning data from 100 trials into an Actor-Critic reinforcement learning model. This model, with separate learning rates for action selection (actor) and state evaluation (critic), was applied to individual mice during avoidance acquisition.  
 Latent parameters, such as learning rate and the subjective reinforcement value of foot shock, were extracted and compared across subjects. To enhance stability, I integrated Temporal Difference (TD) learning, which effectively handles delayed rewards and punishments—key factors in avoidance behaviors. The TD error aligns with biological mechanisms like dopamine signaling, making it a plausible framework for understanding how animals learn to avoid threats. Additionally, the regularization term ensures stable and efficient learning, even in uncertain and complex environments.  
-I am currently investigating whether the TD-regularized Actor-Critic RL model accurately represents and predicts avoidance behavior. I will provide updates as the project progresses.  
+I am currently investigating whether the TD-regularized Actor-Critic RL model accurately represents and predicts avoidance behavior. I will provide updates as the project progresses. 
+https://github.com/AntonMich1/Reinforcement-Learning-Temporal-Difference-TD-regularized-Active-Avoidance-Learning
+
 
