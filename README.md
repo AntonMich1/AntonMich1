@@ -22,10 +22,6 @@ https://github.com/AntonMich1/Mathematics_MachineLearning
 
 Ongoing Projects
 
-Your revised version is well-structured and clear, but I made a few refinements for conciseness, clarity, and flow:  
-
----
-
 Reinforcement Learning – Temporal Difference (TD) Regularized Actor-Critic Model for Active Avoidance Learning
 
 I am using parameters from cue-signaled active avoidance (AA) training in mice and feeding real learning data from 100 trials into an Actor-Critic reinforcement learning model. This model, with separate learning rates for action selection (actor) and state evaluation (critic), was applied to individual mice during avoidance acquisition.  
